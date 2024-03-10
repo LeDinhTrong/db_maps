@@ -72,7 +72,516 @@
     "download_count": "0",
     "createTime": "2024-03-08 22:14:30.089"
   },
-  
+  {
+    "id": "e8e2756b-6bf0-444f-aab4-4cbb0dcb71ed",
+    "type_id": "0",
+    "name": "Hogwarts — Adventure Map and Starter Base",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/hogwarts_adventure_map_and_starterbase/hogwarts_adventure_map_and_starterbase.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/hogwarts_adventure_map_and_starterbase/hogwarts_adventure_map_and_starterbase_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/hogwarts_adventure_map_and_starterbase/hogwarts_adventure_map_and_starterbase_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/hogwarts_adventure_map_and_starterbase/hogwarts_adventure_map_and_starterbase_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/hogwarts_adventure_map_and_starterbase/hogwarts_adventure_map_and_starterbase_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/hogwarts_adventure_map_and_starterbase/hogwarts_adventure_map_and_starterbase_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/hogwarts_adventure_map_and_starterbase/hogwarts_adventure_map_and_starterbase_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/hogwarts_adventure_map_and_starterbase/hogwarts_adventure_map_and_starterbase_07.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/hogwarts_adventure_map_and_starterbase/hogwarts_adventure_map_and_starterbase_expert.wld",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Hogwarts is an exciting map that will change the start of your adventure in Terraria. Explore the mysteries of Hogwarts, battle enemies in dungeons, and discover unique loot. If you're tired of your typical starter home, Hogwarts provides you with a base and all the resources you need to begin your journey as a wizard.\n\nWorld: Map includes Corruption and Crimson elements (using Drunken Seed). It's a small world, rich in resources and perfect for adventure.\nComplexity: Expert Difficulty.\nUnique rooms: 14 unique rooms, floors and halls, as well as an impressive appearance.\nSecrets and Easter eggs: Many little secrets and interesting details await you.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "697ab865-1027-4021-8c9a-603646341877",
+    "type_id": "0",
+    "name": "The Adventure Awaits",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_07.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_08.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_09.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_10.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_adventure_awaits/the_adventure_awaits_expert.wld",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Immerse yourself in the immersive world of The Adventure Awaits, a map crafted with love and attention to detail to offer you an unforgettable Terraria gaming experience. Embark on an exciting journey full of dangers, treasures and mysteries.\n\nFeatures of the card:\nA unique world: The Adventure Awaits offers a vast and diverse world filled with different biomes, including dense jungles, burning deserts and dark dungeons.\nTasks and quests: Exciting tasks and quests await you, which will reveal exciting stories and open up new areas of the world.\nCarefully designed levels: Each area on the map has been created with meticulous attention to detail, offering unique landscapes, traps and secrets to explore and overcome.\nNew enemies and bosses: New dangers and challenges await you in the form of powerful enemies and epic bosses that will test your skills and strategies in battle.\nTreasures and rewards: Open treasure chests, find secret passages and earn valuable rewards to help you on your adventure.\nTeam play: The Adventure Awaits offers the opportunity to play with friends, joining forces to overcome challenges and achieve great things.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "11dd9e22-4dd4-4424-8798-5b1878fc94b9",
+    "type_id": "0",
+    "name": "Aperture Science T Branch",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/aperture_science_t_branch/aperture_science_t_branch.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/aperture_science_t_branch/aperture_science_t_branch_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/aperture_science_t_branch/aperture_science_t_branch_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/aperture_science_t_branch/aperture_science_t_branch_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/aperture_science_t_branch/aperture_science_t_branch_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/aperture_science_t_branch/aperture_science_t_branch_05.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/aperture_science_t_branch/aperture_science_t_branch_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "\"Aperture T Branch: Unique puzzle map with Portal Gun for Terraria\" Immerse yourself in the exciting world of Aperture T Branch, a puzzle map that offers a unique Terraria Portal Gun experience. Go through exciting test chambers and solve challenging puzzles using your skills and logic.\n\nPortal Gun: Equip yourself with a powerful tool that allows you to create portals to move around the level and solve puzzles.\nSix test chambers: Explore six carefully designed test chambers, each offering its own unique challenges and riddles.\nInspired by Aperture: The map is inspired by the iconic game Portal, combining elements of the architecture and style of Aperture Science.\nRegular updates: The map creator continues to work on the project and offers regular updates with new challenges and improvements.\nFeedback is welcome: Your opinions and feedback on puzzle mechanics, level design and general",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "e2b1f6ce-f22e-4699-8297-fb1498d52b0b",
+    "type_id": "0",
+    "name": "Castlevania: Symphony of the Night",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castlevania_symphony_of_the_night/castlevania_symphony_of_the_night.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castlevania_symphony_of_the_night/castlevania_symphony_of_the_night_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castlevania_symphony_of_the_night/castlevania_symphony_of_the_night_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castlevania_symphony_of_the_night/castlevania_symphony_of_the_night_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castlevania_symphony_of_the_night/castlevania_symphony_of_the_night_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castlevania_symphony_of_the_night/castlevania_symphony_of_the_night_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castlevania_symphony_of_the_night/castlevania_symphony_of_the_night_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castlevania_symphony_of_the_night/castlevania_symphony_of_the_night_07.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castlevania_symphony_of_the_night/castlevania_symphony_of_the_night_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "The map \"Castlevania: Symphony of the Night\" in the game Terraria recreates the atmosphere of the famous game \"Castlevania: Symphony of the Night\". It is a dark and mysterious place, full of dangers and adventures.\n\nThe map recreates the famous Dracula's castle from the game \"Castlevania: Symphony of the Night\".\nThe castle has a dark and gothic atmosphere with tall towers, battlements and ominous decorations.\nInside the castle you will find many rooms, labyrinths and secret passages.\nVarious enemies await you, such as vampires, zombies, demons and other creatures of darkness.\nThe castle is filled with traps, riddles and puzzles that must be solved in order to progress.\nSome rooms contain valuable items, treasures and powerful equipment.\nThe top of the castle is the site of a fight with the most powerful boss, which poses a real challenge for the player.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "a576e99e-3b64-48b5-bf08-87592045654b",
+    "type_id": "0",
+    "name": "Bossrush",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bossrush/bossrush.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bossrush/bossrush_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bossrush/bossrush_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bossrush/bossrush_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bossrush/bossrush_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bossrush/bossrush_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bossrush/bossrush_06.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bossrush/bossrush_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "A bossrush map is a world map in the game Terraria that was specifically created for boss battles. The map has many fortifications and structures that will help you deal with bosses, as well as various traps and items that you can use to increase your chances of winning.\n\nSin is one of the hardest bosses in the game. He appears after the player has killed all other bosses on the map.\nLunatic is a boss that only appears during a lunar eclipse.\nThe Pirate Infestation is not exactly a boss, but it is a large group of pirates that are trying to take over your base.\nPlantera is a boss that appears after the player kills a certain number of hostile monsters in the dungeon.\nThe Skeleton Enemy is a boss that appears during Hardmode.\nGolem is a boss that appears after the player activates certain mechanisms in the dungeon.\nFlame Sunflower is a boss that only appears in the desert during the day.\nHardmode Boss is the name given to several bosses that appear during Hardmode. These bosses can be very difficult to fight.\nMechanical Bosses is the name for several bosses that can be created from certain items. These bosses can be very difficult to fight.\nMainland Bosses is the name for several bosses that only appear on certain continents. These bosses can be very difficult to fight.\n\nThe Bossrush map also has a variety of fortifications, traps, and items that can help you in boss battles.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "bf484ade-2b22-4d1e-be13-933d6691da66",
+    "type_id": "0",
+    "name": "Angler's task",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/anglers_task/anglers_task.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/anglers_task/anglers_task_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/anglers_task/anglers_task_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/anglers_task/anglers_task_03.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/anglers_task/anglers_task_master.wld"
+    },
+    "author_name": "unknown",
+    "description": "Master the art of fishing in Terraria with our unique Angler's task map. Forget about the endless search for fisherman and legendary fish - our map offers the perfect solution to complete fisherman quests without any hassle. Speed up the process with the magic clock, bed and other amenities provided on the card. Rely on us to successfully complete all 200 fishing missions!\n\nHave you ever had trouble with fishing quests in Terraria? Our Angler's task map is the perfect solution for those looking for a simple and effective way to complete all the angler's tasks. After your friend had a meltdown trying to get the full achievement, we created this map to help you avoid similar difficulties.\n\nMap content:\n200 types of fish: All information about the fish, including their names, is provided on the map. (Please note that names may vary between versions of the game due to differences in translations. We apologize for that.)\nTime acceleration: Use the magic clock, magic moon clock and bed on the map to speed up the passage of time and complete tasks successfully.\nFlexibility in completing tasks: We offer two options - completing tasks directly on our map or taking it with you to complete tasks at a time convenient for you.\n\nTip: If you think the process is too slow, you can delete and download the card again. At any time you can find a fisherman to complete tasks. Enjoy the ease and satisfaction of completing all the fishing missions in Terraria!",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "98150a86-290e-470b-83dc-0574dfddba57",
+    "type_id": "0",
+    "name": "The Dreamland Sanctuary",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary_07.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary_08.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_dreamland_sanctuary/the_dreamland_sanctuary_expert.wld",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Welcome to the sacred world of Dreamland Sanctuary for Terraria! This expert-level world is designed to be played through, but you're also invited to explore it as you please! Unique structures await you here, including reworked biomes, custom temples, shrines, and even mining mines!\n\nFeatures:\n1. Reworked biomes:\nAdded larger trees, more vegetation, and custom elements to biomes.\nPre-mode spawns Saint (Hallow) rather than Hard mode, making it safe to explore before going to Hard mode.\n2. Holy (Hallow):\nPreview version of Hallow without Hard Mode enemies.\nWhen entering Hard Mode, there is a chance of generating 2 Hallow biomes due to its presence in Pre-Mode.\n3. Bloody and Dark biomes (Crimson & Corruption):\nThese evil biomes have been reworked and have additional terrain elements.\nLarge trees with unique features contain infected areas on trunks and branches.\n4. Custom biomes:\nThe world includes several new unique biomes, including Aterium Caves and Coral Reef Caves.\n5. Mines:\nMines made according to the biome give them a unique look.\nThe lighting makes them easy to spot and treasures can be found inside.\n6. Shrines:\nReplaces the regular cabins and contains treasures that promise to be fun, but not too overwhelming for the initial playthrough.\nFound in caves of various biomes.\n7. Temples:\nLarge alternate versions of shrines with unique treasures and biome keys (except for the Temple of Aterium).\n8. Other structures:\nThe ruins of the houses in Hell have been redesigned with great attention to detail.\nThere are now large hives in the jungle and a frozen ice fishing area underneath the snow biome.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "abebb3d5-f5d3-4447-a2db-ac80cc9d5ef5",
+    "type_id": "0",
+    "name": "Omega Golf Adventure",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/omega_golf_adventure/omega_golf_adventure.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/omega_golf_adventure/omega_golf_adventure.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/omega_golf_adventure/omega_golf_adventure_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/omega_golf_adventure/omega_golf_adventure_02.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/omega_golf_adventure/omega_golf_adventure_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Are you ready to embark on an exciting adventure in the world of Golf? Introducing the Omega Golf Adventure, a unique journey through 9 different islands where you can enjoy this game extravaganza.\n\nPlay on 9 different islands:\nEach island offers a unique golf course, creating diversity in scenery and course difficulty.\n\nGet upgrades as you play:\nStart the game with the necessary Golf equipment, and as you progress through the islands you will be given upgrades to improve your experience.\n\nPlay as a Golfer:\nAn exciting golf experience awaits you, full of fun and challenge on each of the islands.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "c5667423-6cb2-4187-a235-37547180e32f",
+    "type_id": "0",
+    "name": "Neon Genesis Evangelion",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/neon_genesis_evangelion/neon_genesis_evangelion.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/neon_genesis_evangelion/neon_genesis_evangelion_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/neon_genesis_evangelion/neon_genesis_evangelion_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/neon_genesis_evangelion/neon_genesis_evangelion_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/neon_genesis_evangelion/neon_genesis_evangelion_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/neon_genesis_evangelion/neon_genesis_evangelion_05.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/neon_genesis_evangelion/neon_genesis_evangelion_master.wld"
+    },
+    "author_name": "unknown",
+    "description": "This impressive creation is a 1:1 scale replica of the 330-block tall Eva Unit: 01 robot from the anime Neon Genesis Evangelion, holding the Tirpitz ship in his hands.\n\nFeatures:\nReplica of Eva Unit: 01 in 1:1 scale.\nHeight: 330 blocks.\nDecorated and furnished inside, including teleporters for easy movement.\nIt was built by hand and took between 80 and 100 hours of labor.\n\nOriginal design: Hand built using the original Eva Unit: 01 design from the anime.\nUnique combination of blocks: Various blocks are used to achieve maximum resemblance to the original. In particular, a lot of attention is paid to purple shades to give the right illumination using natural light.\nCharacter selection: The author of the project chose to build Eva Unit: 01, as he considers it more recognizable and symbolic than Eva Unit: 02.\nComfortable use: The map is in \"easy\" mode and offers many amenities for players, including furnishings, teleporters, and lighting.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "ca2f60a0-6890-4d6b-969c-94862deabaa0",
+    "type_id": "0",
+    "name": "10 Terraria Veterans take on FOR THE WORTHY",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_07.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_08.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_09.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/10_terraria_veterans_take_on_for_the_worthy/10_terraria_veterans_take_on_for_the_worthy_master.wld"
+    },
+    "author_name": "unknown",
+    "description": "\"10 Terraria Veterans take on FOR THE WORTHY\" is an amazing world created ten veterans of Terraria. In this world, unprecedented buildings, secret corners and exciting adventures await you.\n\nRealm of Death: This world was used in a popular YouTube video series. Here you will find not only familiar places, but also new buildings that have never been shown in the series before. Explore it, discover its secrets and enjoy a unique experience.\nMini Golf: There is a full-fledged mini-golf course in the world. Try your hand and try to complete it with the least number of hits.\nHidden seagulls: Don't forget to look for hidden seagulls! They can hide in the most unexpected places.\n\nThis world is a real adventure for true Terraria fans. Immerse yourself in it and discover amazing possibilities!",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "e0e7152b-7e47-4aba-a2cf-d08d5c9d81cd",
+    "type_id": "0",
+    "name": "The Moon Tree",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_moon_tree/the_moon_tree.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_moon_tree/the_moon_tree_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_moon_tree/the_moon_tree_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_moon_tree/the_moon_tree_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_moon_tree/the_moon_tree_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_moon_tree/the_moon_tree_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_moon_tree/the_moon_tree_06.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_moon_tree/the_moon_tree_master.wld"
+    },
+    "author_name": "unknown",
+    "description": "\"The Moon Tree\"  is a vast master world infested with corruption. This is my own adventure world, and the design of the NPC town is inspired by the work of other authors. All bosses have been defeated and all master drops are available to you.\n\nThis world is a magnificent combination of dark magic and adventure, where you can explore branching corridors, climb to the top Moon Tree and face powerful beings. You may even find secret corners hidden from the eyes of ordinary researchers.\nClimb up the branches of the tree, feeling the magic of the night, and discover its secrets. Perhaps in its peaks you will find something that will change your destiny in Terraria.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "3374a67a-336b-4533-a16e-be485012985a",
+    "type_id": "0",
+    "name": "Putt-rarria",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/putt_rarria/putt_rarria.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/putt_rarria/putt_rarria_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/putt_rarria/putt_rarria_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/putt_rarria/putt_rarria_03.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/putt_rarria/putt_rarria_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "\"Putt-rarria\" is a unique map for the Terraria game that offers an exciting mini golf experience in an adventurous world. Using Terraria game mechanics, this map turns ordinary locations into mini golf courses, creating a unique combination of the two genres.\n\nFeatures of the “Putt-rarria” card:\nUnique golf locations: Explore colorful and varied golf courses specially created in the world of Terraria. They offer a variety of themes including tropical beach, caves and even sky islands.\nCarefully designed golf courses: Each golf course on the Putt-rarria map has been carefully designed with difficulty and interesting mechanics in mind. You have to overcome obstacles, control the ball and use various tools to achieve better results.\nVarious obstacles and traps: You will find many interesting obstacles and traps on each golf course. From jumping platforms and portals to water obstacles and more, you'll have to use your skills and strategies to overcome them and reach the hole.\nLots of tools and equipment: Putt-rarria offers a wide range of tools and equipment specifically designed for playing mini golf. You can use different types of balls, buy and upgrade clubs, and even gain special abilities to increase your chances of success.\nTournaments and multiplayer mode: Compete with friends in multiplayer mode or take part in official Putt-rarria tournaments. Win first place, set new records and become a real mini-golf master in Terraria.\n\nPutt-rarria is a unique map that offers a fun combination of mini golf and Terraria. Get ready for exciting challenges, beautiful locations and a variety of obstacles in this unique combination of two genres.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "bf5cc4ac-1787-4ab1-987c-2a5b70936ad4",
+    "type_id": "0",
+    "name": "The Pylons",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_pylons/the_pylons.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_pylons/the_pylons_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_pylons/the_pylons_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_pylons/the_pylons_03.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/the_pylons/the_pylons_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "\"The Pylons Journey\" is an amazing card for Terraria, created with skill and love. Let's plunge into this world, where each pylon has its own thematic structure, and each biome is revealed in all its glory.\n\nThematic buildings: Each pylon is framed with a unique theme. From snow-capped peaks to hot deserts, you'll find impressive homes and structures.\nTravel in game mode: Start your adventure on this map in Journey, equipped with pre-built houses. Explore the world without changes outside of buildings.\nCreated with love: Author Khaios put a lot of work into making this world unique and interesting for players.\nExplore and Enjoy: Travel through this world, enjoying magnificent buildings and discovering new corners. Indeed, in \"The Pylons Journey\", each pylon is not just a place for teleportation, but a real work of art!",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "b8751d86-9995-48f9-8b4d-393e3326b1f1",
+    "type_id": "0",
+    "name": "Dreamscape",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dreamscape/dreamscape.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dreamscape/dreamscape_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dreamscape/dreamscape_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dreamscape/dreamscape_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dreamscape/dreamscape_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dreamscape/dreamscape_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dreamscape/dreamscape_06.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dreamscape/dreamscape_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Immerse yourself in the world of dreams and nightmares with the Dreamscape map for Terraria. Embark on an exciting adventure, overcoming various challenges and revealing the secrets of each unique level.\n\nWelcome to 'Dreamscape', an amazing Terraria map developed by Ghostar & Darthkitten. This is an exciting adventure where each level is a separate world filled with unique challenges and mechanics.\nWhat awaits you on the map:\nNine surreal levels, each representing a unique world.\nThe ability to play both alone and with friends.\nArcade mode that unlocks additional secrets and fun.\nImmerse yourself in 'Dreamscape' and explore the amazing worlds of dreams and nightmares with friends or alone!",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "a4fcfc91-a9bc-4191-a5e5-a0307aba95f3",
+    "type_id": "0",
+    "name": "airarreT — Challenge world",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/airarret_challenge_world/airarret_challenge_world.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/airarret_challenge_world/airarret_challenge_world_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/airarret_challenge_world/airarret_challenge_world_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/airarret_challenge_world/airarret_challenge_world_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/airarret_challenge_world/airarret_challenge_world_04.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/airarret_challenge_world/airarret_challenge_world_master.wld"
+    },
+    "author_name": "unknown",
+    "description": "\"airarreT - Challenge World\" is a world for those who are looking for a real challenge in Terraria. This world combines the most difficult seeds to create the ultimate Master mode experience. Unique world generation provides unique and challenging conditions for exploration and survival.\n\nA ruined loot house near the starting point, offering players some useful items to start the adventure.\nAbility to change the game mode using Tedit to adjust the difficulty to your preferences.\n\nNote:\"airarreT - Challenge World\" is prepared for real heroes, ready for the difficulties and adventures that this world offers. Get ready to overcome incredible challenges and immerse yourself in the fascinating world of Terraria!",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "b84296c6-1fa7-4766-b7c1-adcb5e4c45b3",
+    "type_id": "0",
+    "name": "1.4.4 ALL ITEMS WORLD",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_all_items_world/1_4_4_all_items_world.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_all_items_world/1_4_4_all_items_world_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_all_items_world/1_4_4_all_items_world_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_all_items_world/1_4_4_all_items_world_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_all_items_world/1_4_4_all_items_world_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_all_items_world/1_4_4_all_items_world_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_all_items_world/1_4_4_all_items_world_06.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_all_items_world/1_4_4_all_items_world_master.wld"
+    },
+    "author_name": "unknown",
+    "description": "Terraria's exclusive 1.4.4 ALL ITEMS WORLD map offers access to all 5414 items from the game, providing players with unique experiences and unlimited creativity. From weapons and armor to accessories and decorations, every item is at your fingertips, helping you create the perfect character, win epic battles, and build majestic structures.\n\nFind everything you need: All items are collected here - from swords and armor to unique accessories and gems. You'll never have to search for supplies or equipment again.\nCreate your Unique World: With this map you can create the most unusual characters and build amazing castles and houses. Let your imagination exceed your wildest expectations!\nImmerse yourself in Epic Battles: Challenge the Moon Lord or simply enjoy exciting battles with numerous bosses. Gear up to the fullest and prove your strength!\n\nFeatures Made with Love:\nWorkshop Organization: Each item is carefully and conveniently placed so you can easily find what you need in chests or on shelves.\nVisual Pleasure: Specially selected markings and shadow paint create a premium look, allowing you to fully immerse yourself in the world of objects.\nEase of Navigation: Use the index guide to quickly access the desired area and never get lost in this huge world.\n\nNote: For now, the map is only available in Chinese, but an English version will be available in the future.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "c7d38146-c98d-429a-89b2-4fcbe43a64fc",
+    "type_id": "0",
+    "name": "Flat Vanity",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/flat_vanity/flat_vanity.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/flat_vanity/flat_vanity_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/flat_vanity/flat_vanity_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/flat_vanity/flat_vanity_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/flat_vanity/flat_vanity_04.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/flat_vanity/flat_vanity_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "There are a huge number of mannequins around the world that show more than 700 individual outfits (and their number is constantly growing!).\n\nThis world features popular characters from video games, TV shows, movies, anime, as well as many real people and original characters!\nCurrently, most outfits are unmarked, and those that have missing armor slots must be filled with the appropriate parts from the outfits, which can be changed in the dressing room.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "409a8333-8067-45bf-848b-a7efb33b99e2",
+    "type_id": "0",
+    "name": "HappyDays Ultimate World of AFK Traps",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/happydays_ultimate_world_of_afk_traps/happydays_ultimate_world_of_afk_traps.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/happydays_ultimate_world_of_afk_traps/happydays_ultimate_world_of_afk_traps.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/happydays_ultimate_world_of_afk_traps/happydays_ultimate_world_of_afk_traps_expert.wld",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Each AFK farm has a signpost explaining how to start it. If the trap requires items, you will find a chest next to it, full and ready to go!\nThe teleport room next to the spawn point will take you around the world, just read the sign next to each teleporter to see where it leads!\n\nContains:\nAFK pumpkin farm / Frost Moon\nAFK farm of all bosses\nAFK Farm Power Cell & Mimic\nAFK Farm Rapid Lucky Coin\nAFK Farm Rapid Slime Staff\nAFK Farm Duke Fishron\nAFK King Slime Farm\nmany beautiful NPC housing (several themed towers next to the spawn)\nseveral chests with weapons, accessories and other",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
   {
     "id": "e6472211-bee6-4ac6-8e0a-d0dc7bf13bcb",
     "type_id": "0",
