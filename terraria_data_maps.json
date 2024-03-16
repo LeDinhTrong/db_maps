@@ -1141,22 +1141,22 @@
     "id": "c194faa1-707f-467a-9b07-7c19e8062eb8",
     "type_id": "0",
     "name": "Fish World Survival",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival.jpeg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival.jpeg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_02.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_03.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_04.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_05.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_06.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_07.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_08.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_07.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_08.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Fish_World_Survival_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_Journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_Classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_Expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Fish_World_Survival/Fish_World_Survival_Master.wld"
     },
     "author_name": "mulletrock",
     "description": "Welcome to Fish World Survival! The goal is to beat the game with items only obtained from Fishing and Angler Rewards. There are 16 Biome Islands, 10 boss arenas and a Shimmer Island you can teleport to from a hub. Each island is themed in their respective Biome. Map comes with all the items you will need to get started, also has Angler in the Ocean and Goblin Tinkerer in the Underground\nNotes and Tips:\n\t\tThere is a chest in the crafting room that has 10 life crystals to help speed up time, but they're locked behind a shadow chest!\n\t\tCollecting fallen stars while waiting for the next angler quest early is helpful, best place to get them is on the moon lord/mechanical boss arena\n\t\tThrowing unwanted potions into the Shimmer is useful for gathering ingredients for more useful potions\n\t\tGolden Keys are located in a chest in the dungeon, the Hellforge is in a locked chest in the crafting room\n\t\tSometimes the Traveling Merchant will spawn on top of the biome islands or on a pillar platform and fall down to the underworld, he mostly spawns in with the Goblin Tinkerer though\n\t\tSet spawn point to the Ocean Biome bed to get to the Angler faster",
