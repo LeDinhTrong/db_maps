@@ -1,5 +1,57 @@
 [
   {
+    "id": "a53834f3-b2be-4f6a-9ede-bb05b5beae3b",
+    "type_id": "0",
+    "name": "Sonic the Hedgehog '91 Playable",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/sonic_the_hedgehog_91_playable/sonic_the_hedgehog_91_playable.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/sonic_the_hedgehog_91_playable/sonic_the_hedgehog_91_playable.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/sonic_the_hedgehog_91_playable/sonic_the_hedgehog_91_playable_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "This map is a unique opportunity to be transported into the world of Sonic the Hedgehog straight from Terraria. It was created with great love for the classic game, and our goal is to give you the opportunity to enjoy it in a new context.\n\nInstalling the texture pack: In order to experience the atmosphere of Sonic the Hedgehog in Terraria, you will need to install a special texture pack. This texture pack will add all the necessary elements to the game to make it as similar as possible to the original Sonic game.\nNew opportunities: The map includes not only classic levels from Sonic the Hedgehog, but also a number of new features that are available thanks to Terraria mechanics. You'll be able to use familiar Sonic mechanics like rings and jumping in new situations and contexts.\nContact Us: We value your opinion! We ask you to share your impressions of the map, as well as report any errors or shortcomings that you notice. We strive to make this map as high quality as possible, and your feedback will help us achieve this.\nPlans for the future: Our team is constantly working to improve the map. We plan to add new levels from Sonic the Hedgehog, such as the Marble Zone and the Spring Zone, as well as a number of other improvements to make your gaming time even more fun.\nCommunity: We support an active community of players who share their impressions and suggestions. Join our Discord server to keep up to date with all the news and discussions regarding the map.\nInvite friends: Don't forget to invite your friends to join you on this exciting adventure! Playing Sonic the Hedgehog in Terraria is even more fun when shared with friends.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-08 22:14:30.089"
+  },
+  {
+    "id": "2d356b21-ce90-4d21-9c3d-a55d1c9a6180",
+    "type_id": "0",
+    "name": "1.4.4 Yansi All items for Terraria",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria_05.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/1_4_4_yansi_all_items_for_terraria/1_4_4_yansi_all_items_for_terraria_master.wld"
+    },
+    "author_name": "unknown",
+    "description": "Dive into Yan Si's unique item map, based on version 1.3 of the Builder's Workshop, which will serve as the basis for the upcoming 1.4.5 update. Reveal every detail from terrain adjustments to boss arenas and achievement content. Download instructions are provided for easy access. Join the adventure and experience the joy of survival!\n\nUnique Features:\n\nFull Localization: The map has been translated and localized from the original English version, ensuring accessibility to a wide audience.\nConstant Updates: This map will serve as the basis for the future update 1.4.5, ensuring it is up to date and complete.\nStructured Terrain: The layout of terrain and items follows a fixed order from top to bottom, improving navigation and gaming experience.\nImproved Visualization: Added backgrounds and removed unnecessary wires for a cleaner, more visually appealing map.\nFull Enemy Encounter: Explore a special monster spawn zone with almost all hostile monsters, customized for enhanced gameplay.",
+    "size": "2",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-08 22:14:30.089"
+  },
+  {
     "id": "9b9e4c09-f7c4-4821-86ea-64f50e701ea6",
     "type_id": "0",
     "name": "Calamity Infernum +Apachii Classes + Remnants Map",
@@ -855,13 +907,13 @@
     "id": "a91d114f-d782-4d89-a8fb-c3ba1b93ae22",
     "type_id": "0",
     "name": "OneChunk",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/OneChunk/OneChunk.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/one_chunk/one_chunk.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/OneChunk/OneChunk.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/one_chunk/one_chunk.png"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/OneChunk/OneChunk_Classic.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/one_chunk/one_chunk_classic.wld",
       "2": "",
       "3": ""
     },
@@ -879,15 +931,15 @@
     "id": "97bab88a-fa67-48dc-a2fa-0c3a9399794a",
     "type_id": "0",
     "name": "Terratale",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Terratale/Terratale.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terratale/terratale.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Terratale/Terratale_1.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Terratale/Terratale_2.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Terratale/Terratale_3.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Terratale/Terratale_4.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Terratale/Terratale_5.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Terratale/Terratale_6.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Terratale/Terratale_7.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terratale/terratale_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terratale/terratale_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terratale/terratale_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terratale/terratale_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terratale/terratale_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terratale/terratale_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terratale/terratale_07.png"
     ],
     "difficulty": {
       "0": "",
@@ -983,14 +1035,14 @@
     "id": "79fbe313-61fa-4d79-8d94-7d9505ebb0c0",
     "type_id": "0",
     "name": "Tree of Life",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Tree_of_Life/Tree_of_Life.jpeg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/tree_of_life/tree_of_life.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Tree_of_Life/Tree_of_Life_01.jpeg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Tree_of_Life/Tree_of_Life_02.jpeg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Tree_of_Life/Tree_of_Life_03.jpeg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/tree_of_life/tree_of_life_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/tree_of_life/tree_of_life_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/tree_of_life/tree_of_life_03.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Tree_of_Life/Tree_of_Lif_Journey.wld",
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/tree_of_life/tree_of_life_journey.wld",
       "1": "",
       "2": "",
       "3": ""
@@ -1393,17 +1445,17 @@
     "id": "c51136c3-f631-498f-bd7e-fe1198a00e48",
     "type_id": "0",
     "name": "COMPACT ALL ITEMS HUB",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/compact_all_items_hub/compact_all_items_hub.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_02.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_03.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/compact_all_items_hub/compact_all_items_hub.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/compact_all_items_hub/compact_all_items_hub_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/compact_all_items_hub/compact_all_items_hub_02.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/COMPACT_ALL_ITEMS_HUB/COMPACT_ALL_ITEMS_HUB_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/compact_all_items_hub/compact_all_items_hub_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/compact_all_items_hub/compact_all_items_hub_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/compact_all_items_hub/compact_all_items_hub_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/compact_all_items_hub/compact_all_items_hub_master.wld"
     },
     "author_name": "XTRAcamz",
     "description": "Are you a Terraria Vet in the midst of a build and simply want the easiest and quickest access, directly to the block/s, item/s, or material/s your after?\nAre you new to the game, and would like to start learning about, and building with all Terraria has to offer right from the get go?\nEither way, your in the right place!\nAllow me to introduce and welcome you to the \"SUNV XTRA_ALL ITEMS-1.4+/2022! (PC & MOBILE!) WORLD!\"\nWith this world in your Terraria world's list, you will have access to the easiest and quickest, most compact, 1.4+ ALL ITEM'S WORLD to date!...\n(Granted you may need a day to familiarize yourself with the world, as you would any other!)\nOnce you have though, the Terraria universe is at your finger tips!\nSo, get your hands on the \"SUNV XTRA_ALL ITEMS-1.4+/2022! (PC & MOBILE!)\" world, and start your journey today!...",
@@ -1592,15 +1644,15 @@
     "id": "5216e1b4-17de-4862-8ba0-a7d7370f75a7",
     "type_id": "0",
     "name": "All in One Map",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/All_in_One_Map/All_in_One_Map.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_in_one_map/all_in_one_map.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/All_in_One_Map/All_in_One_Map.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_in_one_map/all_in_one_map.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/All_in_One_Map/All_in_One_Map_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/All_in_One_Map/All_in_One_Map_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/All_in_One_Map/All_in_One_Map_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/All_in_One_Map/All_in_One_Map_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_in_one_map/all_in_one_map_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_in_one_map/all_in_one_map_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_in_one_map/all_in_one_map_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_in_one_map/all_in_one_map_master.wld"
     },
     "author_name": "Loki1300",
     "description": "- Added an ocean cave.\n- Made the sword shrine have a chest with both the sword and Terragrim.\n- Added an extra chamber below the pyramid with the missing items from the chest.\n- Added a graveyard, for Biome completeness and for hardcore characters.\n- Added all Moss types. (NOTE Tedit did not handle Moss well, so I am not 100% sure this is working. I added all the moss types in a long line below the snow Biome If you wanted to know where to find them.)\n- I added all Ore types both pre and post Hardmode. I did the pre-hardmode ores by mass replacing ore types in huge 200x200 lines spanning the whole map. Some are straight lines down, some are horizontal sections. The ores are pretty close to 50:50 each, but Copper and Tin are the closest, only a few 100 difference overall. Once in Hardmode, since the world counts as \"Drunk\" (NOTE The base seed is NOT a drunk seed. I changed to Drunk after initial world gen) as altars are broken you will get all 6 ore types.\n- Added a few more Demon Altars to help get more ore types given you are getting 6 HM ore types vs 3.\n- I added the removed Heart Shrine micro Biome in the Snow Biome, why? Because why not.\n- Made one of the beehives larger than the rest.\n- Speaking of Crimson, I added a Crimson chest with proper items into the Dungeon.\n- Speaking of the Dungeon, made 3 colors preset in the world, replaced all items in each section with the proper brick,background, items, etc. I also added a bit of extra brick and background in some places, so if you want to build an arena in a certain color type, you should have plenty of space to do so.\n- I added tons more temple traps, ~100 Spiky ball traps, ~25 Spear traps, ~10 flame traps.\n- I made sure every chest item was spawned into the world at least once.\n- I added every painting. (NOTE I am not 100% sure, Tedit updated mid way through my progress and it made placing sprites way harder, and I couldn't find paintings anymore. Because of this ONLY the Dungeon has the paintings on the wall placed by me. For the Desert and Underground paintings, I added at least 1 of each one to a chest. So between the naturally spawned paintings and my added ones, every painting Should be in the game. Underworld paintings as far as I could count all spawned naturally.) (SIDE NOTE. Speaking of underworld only about half the chest items spawned naturally with world gen, I added the rest in by hand.)\n- I added a few missing banners.\n-  And finally I added every naturally occurring statue. (NOTE as with paintings, this changed mid way, so I am not 100% sure I got them all.) I will say the 1 Heart Statue that I placed, is in the Heart Shrine in the snow Biome.\n- Added Moonlord pants to a chest somewhere in the world\n- Added a few Red Potions to some chests throughout the world ",
@@ -2016,15 +2068,15 @@
     "id": "d498cd16-2f20-4ed2-926e-49a936ce7d7e",
     "type_id": "0",
     "name": "Puzzle",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Puzzle/Puzzle_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/puzzle/puzzle.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Puzzle/Puzzle_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/puzzle/puzzle_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Puzzle/Puzzle_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Puzzle/Puzzle_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Puzzle/Puzzle_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Puzzle/Puzzle_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/puzzle/puzzle_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/puzzle/puzzle_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/puzzle/puzzle_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/puzzle/puzzle_master.wld"
     },
     "author_name": "Artem kutsenko",
     "description": "Just Puzzle. Difficult puzzles. Puzzles with switches. Puzzle bricks lizards. Puzzles for vigilance. Built on Travel.",
@@ -2333,16 +2385,16 @@
     "id": "e6a3519c-d496-44de-8f22-65e8728f1895",
     "type_id": "0",
     "name": "Card to fur. bosses",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Card_to_fur_bosses/Card_to_fur_bosses_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/card_to_fur_bosses/card_to_fur_bosses.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Card_to_fur_bosses/Card_to_fur_bosses_02.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Card_to_fur_bosses/Card_to_fur_bosses_03.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/card_to_fur_bosses/card_to_fur_bosses_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/card_to_fur_bosses/card_to_fur_bosses_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Card_to_fur_bosses/Card_to_fur_bosses_Journey.wld",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Card_to_fur_bosses/Card_to_fur_bosses_Classic.wld",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Card_to_fur_bosses/Card_to_fur_bosses_Expert.wld",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/Card_to_fur_bosses/Card_to_fur_bosses_Master.wld"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/card_to_fur_bosses/card_to_fur_bosses_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/card_to_fur_bosses/card_to_fur_bosses_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/card_to_fur_bosses/card_to_fur_bosses_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/card_to_fur_bosses/card_to_fur_bosses_master.wld"
     },
     "author_name": "LIMINKOR",
     "description": "The map before mechanical bosses played survival classic, there are chests with items used dupe with chests to dupe ingots and materials on version 1.4",
