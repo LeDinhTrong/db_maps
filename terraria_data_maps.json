@@ -1,5 +1,53 @@
 [
   {
+    "id": "fd126f29-29a3-47ed-b6fd-8ac51880a894",
+    "type_id": "0",
+    "name": "Dual Golem Cages",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dual_golem_cages/dual_golem_cages.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dual_golem_cages/dual_golem_cages.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dual_golem_cages/dual_golem_cages_expert.wld",
+      "3": ""
+    },
+    "author_name": "Oblivious_7",
+    "description": "Below you lies two maze dungeons that will allow you to progress, these mazes are disconnected in such a way that you will need to use teleporters to traverse them. You have two ways of escape, find the golden keys in the mazes to open the gold chests that contain the lizard keys to unlock the doors, or, find the hardmode golem's boss room to obtain the pickaxe to break free. ",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "2c5dc7a9-7ea2-4008-96f6-8f1878d094cf",
+    "type_id": "0",
+    "name": "Galactic Wasteland Parkour",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/galactic_wasteland_parkour/galactic_wasteland_parkour.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/galactic_wasteland_parkour/galactic_wasteland_parkour_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/galactic_wasteland_parkour/galactic_wasteland_parkour_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Magnapinna4096",
+    "description": "Galactic Wasteland is a short, slightly difficult map i made for my 2024 April Fools video.\nI made this map in like 4 hours it's kinda ok.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
     "id": "a53834f3-b2be-4f6a-9ede-bb05b5beae3b",
     "type_id": "0",
     "name": "Sonic the Hedgehog '91 Playable",
@@ -54,7 +102,7 @@
   {
     "id": "9b9e4c09-f7c4-4821-86ea-64f50e701ea6",
     "type_id": "0",
-    "name": "Calamity Infernum +Apachii Classes + Remnants Map",
+    "name": "Calamity Infernum + Apachii Classes + Remnants Map",
     "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/calamity_infernum_apachii_classes_remnants_map/calamity_infernum_apachii_classes_remnants_map.png",
     "images_url": [
       "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/calamity_infernum_apachii_classes_remnants_map/calamity_infernum_apachii_classes_remnants_map.png"
@@ -847,6 +895,732 @@
     },
     "author_name": "Pavel",
     "description": "Here I went through the terraria 3 times, I hope you enjoy what I did for 40 hours. I was very pleased to pass the terraria and I hope you will also be happy to run or fly in my world",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "537b0272-c9a0-4df5-bada-d7018e4891cd",
+    "type_id": "0",
+    "name": "Terraria building map (empty world in JOURNEY mode)",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terraria_building/terraria_building.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terraria_building/terraria_building_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terraria_building/terraria_building_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Mr. Argon (Ar)",
+    "description": "A clean world to build in JOURNEY mode.\nThe surface of the world is enlarged 3-4 times. Removed all blocks and fluids. Lunatic cultist spawn point, 1 shadow orbs and crimson hearts, and XNUMX demonic altar have been retained. There are two chests on the spam, one contains the banner of the cultists - the priest, the archer and the fighter; in the other lie the banner of the WHITE cultists - a priest, - an archer and - a fighter.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "470baa95-9399-4198-a756-f1fdd911a249",
+    "type_id": "0",
+    "name": "Dimasio",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dimasio/dimasio.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dimasio/dimasio_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/dimasio/dimasio_expert.wld",
+      "3": ""
+    },
+    "author_name": "El Aboba",
+    "description": "This is the world where I survive, play, fight. The world is small, on the expert; there is not much consecration, corruption and crimson. This is a Drunk World seed world, and I named the world after a restaurant in a Stephen King novel. This world is suitable for those who do not want to play on their own world. There are also cool things that will help you get stronger.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "124304f6-ed0c-4073-b5e5-23d6371d0025",
+    "type_id": "0",
+    "name": "Murder",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/murder/murder.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/murder/murder_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/murder/murder_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "TerraZel",
+    "description": "New cards:\n• Desert of death\n• Base miner\n• Ship weed (name top)\nMore new features in other maps\nIn general, download and play with friends\n\nWhat's new:\n•New maps 4\n• Skyship try to survive at the top\n• Among ace card kill from a traitor\n• Area 51 is dangerous terrain\n• Both land and greenery A very interesting name",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "66b3d233-86b5-4bb9-a94e-02b82060b70a",
+    "type_id": "0",
+    "name": "Find the chest 0.1",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/find_the_chest_0_1/find_the_chest_0_1.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/find_the_chest_0_1/find_the_chest_0_1_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/find_the_chest_0_1/find_the_chest_0_1_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "TerraZel",
+    "description": "•Mini-games marders more than 7 cards\n•Dez ran\nAnd that's all download and play mini-games with friends or try to find a chest and trophies next update new loca and more\nIf you find a bug please let me know bye :)\n\nInnovation:\n•Two new challenges\n•New levels\n•new trophies\n•something new at the spawn\nTrace update\nNew location “Home Sweet Home”\nDownload play can you pass all the levels?)\n\nUpdate\n\nThe update fixed a bug with the chest\nWhich did not open the passage to level 5\nIf you find a bug write it will help improve the map for everyone\n\nDescription from the author of the map\n\nHi all! I made a new card. It's called Find the Chest. Remember, the maps in Minecraft, where you need to find a lever to go further, are the same, I haven’t seen them yet. Map, where to look for levers, etc. I think I'm the first. Probably your goal is to find a chest trap that will open the passage. Further in the chests you can find trophies and cosmetics. Soon there will be 38 levels of pets on the map, but after the update there will be 70 levels and a challenge event where the New Year's levels are. Bye.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "7b164692-e42f-4acb-862a-17bbe548c12b",
+    "type_id": "0",
+    "name": "Raw milk story",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/raw_milk_story/raw_milk_story.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/raw_milk_story/raw_milk_story_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/raw_milk_story/raw_milk_story_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Andrey",
+    "description": "The map was created to pass. I survived in it with a friend and it has a bunch of cool things, weapons, armor, etc. A couple of bosses are defeated and there are pets, so to speak. There are several NPCs in the house and rooms for others\nIn general, everything is done for a good survival :)",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "55487827-84b1-4369-81c0-06042e14666f",
+    "type_id": "0",
+    "name": "No Blocks",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/no_blocks/no_blocks.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/no_blocks/no_blocks.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/no_blocks/no_blocks_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Losorno127",
+    "description": "I completely cleared the map of blocks in terraria 1.4.4.5, I removed the golem dungeon, the dungeon, floating islands and oceans, I removed hell, but in hell I didn’t remove lava, so sorry (to put a block on this world you have to take frost wand, which can be bought from the wizard), and so the card is intended for buildings, or for your purposes",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "0fb25c73-5d8f-4c54-9372-f20e3987d64e",
+    "type_id": "0",
+    "name": "Top items",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/top_items/top_items.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/top_items/top_items_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/top_items/top_items_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/top_items/top_items_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/top_items/top_items_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/top_items/top_items_master.wld"
+    },
+    "author_name": "Jiuse999",
+    "description": "A card for a quick start or fun. If for a quick start, then consider that you have already passed, but for fun, have fun;) I hope the map will be published for beginners (cheaters are the same as me, if it’s not an insult, it’s just too lazy to develop 2 times so that everything is deleted again because it’s tired and so on in a circle, and so even cool",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "4cb3ac77-1e84-4cbb-ba5a-b95e81a656e0",
+    "type_id": "0",
+    "name": "Start House",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/start_house/start_house.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/start_house/start_house_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/start_house/start_house_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "UsusGKakoyto",
+    "description": "A simple house with things, 2 Nipami, a basement, a warehouse and a bar.\nFrom Me (UsusGKakoyto - Map Author): Map only on Classic difficulty (Expert and Master in the future) Map Made in 1 Hour",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "184b679b-34e1-4140-ac2d-879d5fc287e3",
+    "type_id": "0",
+    "name": "Ymir",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/ymir/ymir.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/ymir/ymir_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/ymir/ymir_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "wae",
+    "description": "This is my world of survival, I'm still a newbie playing for a year, please see if everything is fine there or not. Please put all three modes, please, I beg you, and I'm also kind of a collector, I have a bat",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "bc5c37b2-164b-43af-993a-54dcba8517c5",
+    "type_id": "0",
+    "name": "Minigame",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/minigame/minigame.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/minigame/minigame_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/minigame/minigame_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/minigame/minigame_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "TerraZel",
+    "description": "Update\n\nWhat's new: New Lab levels for drone +3 of them a gallery appeared, these are mini pictures 9x13 that you can see there is a need :/ but that's all, wait for another update for now everyone\n\nDescription from the author of the map\n\nKarts with tons of mini games 1.0.6 is updated\nNew: New tower defense minigame\nNew levels in the Lab for the drone. I think I will make a bunch of mini-games, wait for the next update for everyone :)\n\nAnother new card. About a bunch of mini-games and so on the map. about 9 games. And it's not mine, but I improved it. This version is 100 times better than that one. I improved the mini-games improved the balance in crystal capture added mini-games Lab, for Drone, where is lvl 3?Next. Update. New levels for Drone Lab. Download and play alone or with friends if you have them.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "fc55482d-f40c-40ca-ac27-a7693eeb7004",
+    "type_id": "0",
+    "name": "Chill card",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/chill_card/chill_card.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/chill_card/chill_card_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/chill_card/chill_card_master.wld"
+    },
+    "author_name": "Elias",
+    "description": "In general, I just wanted to transfer this map somewhere, you will like it, there are many items, there are also almost all residents, you can continue to collect and collect everything with this map, as I did there",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "b580be68-b1a0-49e5-a41c-749916fe3dbc",
+    "type_id": "0",
+    "name": "Fast starter",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/fast_starter/fast_starter.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/fast_starter/fast_starter_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/fast_starter/fast_starter_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "halfa",
+    "description": "This is a map for a quick start terraria in this world there are two small houses and initial weapons for all classes, there are also initial boss summons and there are initial NPCs",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "bdf9ae04-1355-4422-a785-f13903677742",
+    "type_id": "0",
+    "name": "Bomber man",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bomber_man/bomber_man.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bomber_man/bomber_man_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/bomber_man/bomber_man_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Ivanromadinov",
+    "description": "Map for 4 players, to start again, reinstall the map.\n\nThe card will break during the round. Create a new character for the map. The map was made on version 1.4.4",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "a7e2d21f-7084-4a35-b038-d84e07b7391c",
+    "type_id": "0",
+    "name": "Mapisgod",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/mapisgod/mapisgod.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/mapisgod/mapisgod_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/mapisgod/mapisgod_02.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/mapisgod/mapisgod_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/mapisgod/mapisgod_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/mapisgod/mapisgod_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/mapisgod/mapisgod_master.wld"
+    },
+    "author_name": "obama",
+    "description": "A map where terraria has been completely completed, a house has been built, a warehouse has an entrance to hell and a lot of trophies, paintings, signs, there is a lot of rubbish in the chests and also in one of the chests there is a zenith",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "6a2aedfd-9c8a-409f-b15a-ff11d49501cb",
+    "type_id": "0",
+    "name": "House",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/house/house.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/house/house_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/house/house_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "halfa po fkusu",
+    "description": "This house is designed to pass the terraria a small house that has everything you need for this also in this world the bosses are passed the devourer of worlds and the eyes of Cthulhu",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "3f717041-fded-43c9-b528-b0e1cf0cf286",
+    "type_id": "0",
+    "name": "All things terraria 1.4.4 and earlier",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_things_terraria_and_earlier/all_things_terraria_and_earlier.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_things_terraria_and_earlier/all_things_terraria_and_earlier_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_things_terraria_and_earlier/all_things_terraria_and_earlier_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_things_terraria_and_earlier/all_things_terraria_and_earlier_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_things_terraria_and_earlier/all_things_terraria_and_earlier_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/all_things_terraria_and_earlier/all_things_terraria_and_earlier_master.wld"
+    },
+    "author_name": "DARK",
+    "description": "Just above the spawn point you will see chests there all things from version 1.4.4, I will post this map expert, master and adventure",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "4e52ac5e-a778-4eab-a961-51ef1b1d31cb",
+    "type_id": "0",
+    "name": "Miniges",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/miniges/miniges.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/miniges/miniges_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/miniges/miniges_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "ZarVpiN TEAM",
+    "description": "MAP WITH MINI GAMES!\nMY FIRST JOB DO NOT JUDGE Strictly\nThere are capture the flag and bee race modes.\nAs well as secrets and rewards (given to the host)",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "55da0777-230b-43b0-a147-99fc98a1aea4",
+    "type_id": "0",
+    "name": "Jungle farm map and top things in house",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/jungle_farm_map_and_top_things_in_house/jungle_farm_map_and_top_things_in_house.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/jungle_farm_map_and_top_things_in_house/jungle_farm_map_and_top_things_in_house_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/jungle_farm_map_and_top_things_in_house/jungle_farm_map_and_top_things_in_house_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/jungle_farm_map_and_top_things_in_house/jungle_farm_map_and_top_things_in_house_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/jungle_farm_map_and_top_things_in_house/jungle_farm_map_and_top_things_in_house_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/jungle_farm_map_and_top_things_in_house/jungle_farm_map_and_top_things_in_house_master.wld"
+    },
+    "author_name": "golegoma",
+    "description": "The farm itself is on the right side of the spawn and cool things in a wooden box on the farm there are trees and 1 planter bud almost at the bottom a lot of mobs on the map if you are not too lazy to wait, you can spawn 3 buds at once 3-4 hours you can farm 15 or more planter auto keel planters No",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "262631ae-3cdc-4c2b-9c1a-5aec55980112",
+    "type_id": "0",
+    "name": "World Salatov v3",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/world_salatov_v3/world_salatov_v3.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/world_salatov_v3/world_salatov_v3_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/world_salatov_v3/world_salatov_v3_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/world_salatov_v3/world_salatov_v3_03.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/world_salatov_v3/world_salatov_v3_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/world_salatov_v3/world_salatov_v3_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/world_salatov_v3/world_salatov_v3_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/world_salatov_v3/world_salatov_v3_master.wld"
+    },
+    "author_name": "Salatov",
+    "description": "Update 2\n\nI don't think this is the latest version of the map...\nBut for this map have a character \nBut the most important thing is to renew\n\njust see for yourself\n\nWEIGHT!!!!!!:-):-):-):-D:-D\n\nUpdate\n\n1 update: Changed TERRAHUB.\nUpdate 2: Added buildings to the right\nUpdate 3: Infection is practically invisible.\n\nDescription from the author of the map\n\nAnd I've prepared a map for you. Meet Mir Salatov. I have not finished it yet, but then there will be a full map. Compatible only with game version 1.4.4 or better 1.4.4.7",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "2db3308d-d0f8-4f96-afb5-e036f44da0af",
+    "type_id": "0",
+    "name": "TerraDark",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terra_dark/terra_dark.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terra_dark/terra_dark_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/terra_dark/terra_dark_journey.wld",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "TerraZel",
+    "description": "Hi, This is a map I've been making for a very long time and it's out in beta. This is a story map where you have to explore the mines and much more.\n\nThere is parkour on the map, where there are like 13 levels, 4th place with NPC mobs in the form of a mannequin. There is a plot too. One day darkness appeared in the world and a man became a zombie and infected almost everyone. And now we need to kill the boss of all this darkness so that the world is quiet and good. You can play alone or up to 4 players. There is loot for 4 players, there is also a house for storing things, etc. See it",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "1ac5b243-02fa-4fc2-9b6d-79ff704cd519",
+    "type_id": "0",
+    "name": "My cool world v2",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/my_cool_world_v2/my_cool_world_v2.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/my_cool_world_v2/my_cool_world_v2_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/my_cool_world_v2/my_cool_world_v2_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/my_cool_world_v2/my_cool_world_v2_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/my_cool_world_v2/my_cool_world_v2_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/my_cool_world_v2/my_cool_world_v2_master.wld"
+    },
+    "author_name": "Rey",
+    "description": "Update\n\nA house appeared in the jungle in it 5 NPCs it acts as a storage and as a torch gel farm let's move on to the desert house it does not have 5 nps but there is a new NPC Demoman he appeared when I was building a house in the jungle soon I will make a house in an ice biome!\n\nDescription from the author of the map\n\nHello everyone, this is my first world, I made this world from another world. There is my NPC house in the desert, I will build other cities in biomes, then the map is not completed",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "a2f57f42-a7d4-46af-bb64-50fa3d0ff811",
+    "type_id": "0",
+    "name": "Map for experiments",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/map_for_experiments/map_for_experiments.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/map_for_experiments/map_for_experiments_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/map_for_experiments/map_for_experiments_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "Rimuru",
+    "description": "This is a map for experiments. It has almost all NPCs, everyone lives in their own biomes. The poles are all working. I myself survived on it and there are a lot of things in the chests. The bosses are all defeated in it, but you can defeat them all yourself.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "74f1a80f-de45-4b38-a829-2b41687b974e",
+    "type_id": "0",
+    "name": "Castle Sero",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castle_sero/castle_sero.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castle_sero/castle_sero_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castle_sero/castle_sero_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castle_sero/castle_sero_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castle_sero/castle_sero_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/castle_sero/castle_sero_master.wld"
+    },
+    "author_name": "NOTE",
+    "description": "I made this map for about 4 weeks, maybe a little less or more. There are 3 flying jungle islands, a forest and a mushroom biome on the map. The main castle and the arena for the initial bosses pillars to move. Portal to Skeletron Prime dungeon and arena on the ocean. Gem farm. There is a trophy room and a warehouse near the gem farm. All NPCs are there.",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "a8ad4ebf-229c-47bf-8046-bc0111b39b2b",
+    "type_id": "0",
+    "name": "IVAN GAME",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/ivan_game/ivan_game.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/ivan_game/ivan_game_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/ivan_game/ivan_game_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/ivan_game/ivan_game_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/ivan_game/ivan_game_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/ivan_game/ivan_game_master.wld"
+    },
+    "author_name": "Ivan",
+    "description": "There are many NPC houses on this map (the 1st portal to them is on the left).\nMushroom farm (to them the 2nd portal on the left). Between the portals there is a button that removes the platform. On which you spawn pour under\nlava platform from the chest (To the right of the mushroom farm). I said everything",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "d1197719-d233-4e58-bd64-959b93775170",
+    "type_id": "0",
+    "name": "Paradise's World",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/paradises_world/paradises_world.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/paradises_world/paradises_world_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/paradises_world/paradises_world_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/paradises_world/paradises_world_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/paradises_world/paradises_world_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/paradises_world/paradises_world_master.wld"
+    },
+    "author_name": "Rey",
+    "description": "The following pre-hardmode bosses have been defeated:\n1 Slug King\n2. Eye of Cthulhu\n3. Queen bee\n4. Skeletron\n5. Wall of Flesh (World in hardmode, of course)\n\nHardmode bosses were also killed:\n1. Slug Queen\n\n2. Twins\n3. Destroyer\n4. Skeletron Prime\n\n5. Plantera\n6. Golem\n7. Lunatic sectarian\nAll four sky towers destroyed\n8. Moon Lord (Final Boss)\n\nAlso passed\n1. Invasion of pirates\n2 Pumpkin Moon\n3. Frosty moon\n4. Ice Legion\n5. Solar eclipse\n6 Goblin Army",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "d8e96d1b-c5f2-4f84-89c7-eb3407a9c6bc",
+    "type_id": "0",
+    "name": "Solmak Survival",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/solmak_survival/solmak_survival.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/solmak_survival/solmak_survival_01.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/solmak_survival/solmak_survival_expert.wld",
+      "3": ""
+    },
+    "author_name": "BLINBOOM",
+    "description": "My world (before hardmode) is almost all NPCs except for the stylist. I'm uploading due to the transition to a new version on another device, do not look at the asphalt 🙂",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "a7ca07f1-2c19-4c6a-9c74-dd25256d3bf0",
+    "type_id": "0",
+    "name": "Legendary passage",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/legendary_passage/legendary_passage.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/legendary_passage/legendary_passage_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/legendary_passage/legendary_passage_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/legendary_passage/legendary_passage_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/legendary_passage/legendary_passage_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/legendary_passage/legendary_passage_master.wld"
+    },
+    "author_name": "Forden",
+    "description": "Hello to all terraria players. I want to share with you the map and the character that I play through the game with. By the way, I play not alone, but with my friend. In general, we want to build a lot of cool and different content on this map. The next layout of the map and character will be at 50 hours. To find a character, enter in the search: \"Character for the legendary passage, in 25 hours.\"",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "a29f3b8a-e95d-47eb-8e14-73ef08f6933e",
+    "type_id": "0",
+    "name": "Just Terraria v3",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/just_terraria_v3/just_terraria_v3.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/just_terraria_v3/just_terraria_v3_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/just_terraria_v3/just_terraria_v3_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/just_terraria_v3/just_terraria_v3_03.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/just_terraria_v3/just_terraria_v3_journey.wld",
+      "1": "",
+      "2": "",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/just_terraria_v3/just_terraria_v3_master.wld"
+    },
+    "author_name": "Creator",
+    "description": "Update 3\n\nThis time the update affected only the jungle, a large bee hive was added, the addition of a Japanese house, the transfer of the mushroom biome\n\nUpdate 2\n\nNew:\nUnderworld change.\nAdded oasis.\nAdded new experimental trees.\nAdded protection against meteorites (for a while).\nEaster eggs added.\nChanged:\nThe mushroom biome has become the color of a truffle.\nFloating islands have been changed.\nNow in the ice cave, the place of the buttons is set to the character's sensors.\n Error correction.\n\nUpdate\n\n1)new:\n A mysterious ice cave has been made. Dare to explore it? It won't be easy.\nMade a new ocean in place of the old pit.\nThe mysterious disappearance of the skeleton dungeon and its cultists.\nAdded flying islands.\n2) redesigned:\nThe house of a party girl and a golfer.\nThe edge of the left ocean has been redone.\n\nDescription from the author of the map\n\nThis map used to be playable but then became a building site, so there are a lot of nice buildings there, but there's still a lot to be built, so there will be a few more releases of this map.\n\nMap description (master version)\n\nThis map is the same, but only some buildings are missing, so I’ll build something else here or leave it like that ",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "1c2ac9c8-f65e-4568-b1bd-858123958a16",
+    "type_id": "0",
+    "name": "Not a cool map",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/not_a_cool_map/not_a_cool_map.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/not_a_cool_map/not_a_cool_map_01.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/not_a_cool_map/not_a_cool_map_journey.wld",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/not_a_cool_map/not_a_cool_map_classic.wld",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/not_a_cool_map/not_a_cool_map_expert.wld",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/not_a_cool_map/not_a_cool_map_master.wld"
+    },
+    "author_name": "Djevil",
+    "description": "Not a very cool card, nothing more to say. And although the fire map is just all the trophies and statues, and I don’t care what it is like this. And also my nickname in the game chair or ches",
+    "size": "",
+    "tags": [
+      "15"
+    ],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-01-19 22:14:30.089"
+  },
+  {
+    "id": "9c46d479-6fb4-4549-80d3-aa4125c14c5b",
+    "type_id": "0",
+    "name": "",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/home_in_the_wood_map/home_in_the_wood_map.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/home_in_the_wood_map/home_in_the_wood_map.png"
+    ],
+    "difficulty": {
+      "0": "",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_maps/master/home_in_the_wood_map/home_in_the_wood_map_classic.wld",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "",
+    "description": "",
     "size": "",
     "tags": [
       "15"
